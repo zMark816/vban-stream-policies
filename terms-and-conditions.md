@@ -11,7 +11,7 @@ We do not use Google Analytics, Firebase, Crashlytics, advertising, or any other
 If that's all you wanted to know, you're done. Details below.
 
 1. Who We Are (Data Controller)
-The "data controller" under EU Regulation 2016/679 (GDPR) is zMark816, contactable at contact@example.com.
+The "data controller" under EU Regulation 2016/679 (GDPR) is zMark816, contactable at marcocrisostemo@gmail.com.
 
 2. Android Permissions Declared by the App
 Below is the complete list of permissions the App declares in its AndroidManifest.xml, what each one is used for, and what data — if any — it touches.
@@ -105,7 +105,7 @@ Because the App does not store personal data on our side, in practice there is n
 Delete all local data by uninstalling the App or clearing its storage in Android Settings.
 Withdraw permissions at any time from Android Settings (per-permission revocation is supported on all modern Android versions).
 Disable Accessibility at any time in Settings → Accessibility.
-Contact us with any privacy concern at contact@example.com. We will respond within 30 days.
+Contact us with any privacy concern at marcocrisostemo@gmail.com. We will respond within 30 days.
 You also have the right to lodge a complaint with the Italian Data Protection Authority (Garante per la Protezione dei Dati Personali — www.garanteprivacy.it).
 
 8. Security
